@@ -1,4 +1,9 @@
-# Oculus Killer
+# Oculus Killer Kiosk
+
+Fork from oculus killer. Aims to create a version where an app can be launched an run in kiosk like mode. WIP
+
+
+
 Completely kill the Oculus Dash and auto-launch SteamVR, with my newest discovery.
 
 [![Discord Shield](https://discordapp.com/api/guilds/972139796354973806/widget.png?style=shield)](https://discord.gg/dPsfJhsGwb)
